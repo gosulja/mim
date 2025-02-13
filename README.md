@@ -1,6 +1,9 @@
 # mim
 My own personal minimal Neovim configuration for C/C++, Python and Lua development.
 
+![2025-02-13_20-27](https://github.com/user-attachments/assets/262b7867-6952-4677-89c0-b23f85e66832)
+
+
 # Requirements
 * **Packer**
 * **unzip**
