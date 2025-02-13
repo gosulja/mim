@@ -17,7 +17,7 @@ $ git clone --depth 1 https://github.com/wbthomason/packer.nvim && ~/.local/shar
 
 After **Packer** is installed, clone this repo and move the `init.lua` file to `~/.config/nvim/`
 ```bash
-$ git clone --depth 1 https://github.com/gosulja/mim.git && mv ./mim/init.lua ~/.config/nvim/init.lua
+$ git clone --depth 1 https://github.com/gosulja/mim.git mim && mv ./mim/config/init.lua ~/.config/nvim/init.lua
 ```
 
 When that's done, open Neovim.
