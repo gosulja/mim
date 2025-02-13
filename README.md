@@ -36,3 +36,8 @@ If the language servers don't install automatically, install them:
 ```
 
 Done!
+
+# Changing Theme
+If you'd like to change the theme of the config, simply call `use '<THEME>'` in the packer startup function, which starts on `line 3`.
+For example, `use 'folke/tokyonight.nvim'` is the default theme being used, go to that line and replace it with your theme of choice.
+After that, just make sure to setup the theme, like on `line 44`.
